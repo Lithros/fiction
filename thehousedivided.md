@@ -7,7 +7,7 @@ permalink: /shakespeare/
 # THE TRAGEDY OF ABRAHAM LINCOLN
 ## *or, The House Divided*
 
-*A new play in five acts, written after the manner of William Shakespeare.*  
+*A new play in five acts, written after the manner of William Shakespeare. Prompted by @Lithros, written by Claude Fable 5.*  
 
 ---
 
