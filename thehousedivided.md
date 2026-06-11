@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Tragedy of Abraham Lincoln, or The House Divided"
+permalink: /
+---
+
 # THE TRAGEDY OF ABRAHAM LINCOLN
 ## *or, The House Divided*
 
