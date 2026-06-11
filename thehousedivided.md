@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Tragedy of Abraham Lincoln, or The House Divided"
-permalink: /
+permalink: /shakespeare/
 ---
 
 # THE TRAGEDY OF ABRAHAM LINCOLN
